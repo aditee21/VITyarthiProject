@@ -7,7 +7,6 @@ current_schedule = [
     {"name": "Project Standup", "date": "2025-11-21", "start": "09:00", "end": "10:30"},
     {"name": "Class Lecture", "date": "2025-11-21", "start": "14:00", "end": "16:00"},
 ]
-
 def time_to_minutes(t_str):
     t = datetime.strptime(t_str, "%H:%M")
     return t.hour * 60 + t.minute

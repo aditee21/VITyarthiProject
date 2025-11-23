@@ -17,7 +17,7 @@ The Event Conflict Checker is a simple Python CRUD (Create, Read, Update, Delete
 
 **Console Output**: Displays the current schedule and relevant messages directly in the terminal.
 
-**TOOLS USED**
+## **TOOLS USED**
 
 
  **Python 3.13**: The entire application is written using only Python including usage of built-in libraries for date and time handling.
@@ -27,7 +27,7 @@ The Event Conflict Checker is a simple Python CRUD (Create, Read, Update, Delete
  **Command-Line** Interface (CLI): No framework used, the program runs entirely in the terminal.
 
 
-**STEPS TO INSTALL & RUN THE PROJECT**
+## **STEPS TO INSTALL & RUN THE PROJECT**
 1. **INSTALL PYTHON**
     make sure that you have installed python3.13 in your system.You can download it from python.org .
 2. **PIP INSTALL** 
@@ -37,7 +37,7 @@ The Event Conflict Checker is a simple Python CRUD (Create, Read, Update, Delete
 4. **RUN THE PROJECT**
     open terminal and go in the directory where your project is saved  and execute the command python event_conflict_checker.py
 
-**INSTRUCTIONS FOR TESTING **
+## **INSTRUCTIONS FOR TESTING **
 
 **View Events:**
 Select option 1 to view current schedule.
@@ -53,8 +53,4 @@ Select option 4 to update an event. Change its details and verify that the syste
 
 **Exit:**
 Select option 5 to exit the application.
-
-### **SCREENSHOT**
-
-
 
