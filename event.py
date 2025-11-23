@@ -110,8 +110,8 @@ def main():
         print("="*50)
         print("1. View All Events")
         print("2. Add New Event")
-        print("3. Update Event")
-        print("4. Delete Event")
+        print("3. Delete Event")
+        print("4. Update Event")
         print("5. Exit")
         choice = input("Enter your choice (1-5): ")
         print("="*50)
@@ -131,3 +131,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
