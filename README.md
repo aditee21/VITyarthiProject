@@ -17,40 +17,44 @@ The Event Conflict Checker is a simple Python CRUD (Create, Read, Update, Delete
 
 **Console Output**: Displays the current schedule and relevant messages directly in the terminal.
 
-*TOOLS USED**
+**TOOLS USED**
 
 
- Python 3.13: The entire application is written using only Python including usage of built-in libraries for date and time handling.
+ **Python 3.13**: The entire application is written using only Python including usage of built-in libraries for date and time handling.
 
- datetime module:used for comparing time strings
+ **datetime** module:used for comparing time strings
 
- Command-Line Interface (CLI): No framework used, the program runs entirely in the terminal.
+ **Command-Line** Interface (CLI): No framework used, the program runs entirely in the terminal.
 
 
-*STEPS TO INSTALL & RUN THE PROJECT*
-1. INSTALL PYTHON
+**STEPS TO INSTALL & RUN THE PROJECT**
+1. **INSTALL PYTHON**
     make sure that you have installed python3.13 in your system.You can download it from python.org .
-2. PIP INSTALL 
+2. **PIP INSTALL** 
     intall datetime module in youre system through terminal using the command pip install datetime 
-3. CLONE THE REPOSITORY 
+3. **CLONE THE REPOSITORY** 
     clone the project files to your local machine.
-4. RUN THE PROJECT
+4. **RUN THE PROJECT**
     open terminal and go in the directory where your project is saved  and execute the command python event_conflict_checker.py
 
-*INSTRUCTIONS FOR TESTING 
+**INSTRUCTIONS FOR TESTING **
 
-View Events:
+**View Events:**
 Select option 1 to view current schedule.
 
-Add Events:
+**Add Events:**
 Select option 2 to add an event. Enter the event details and observe if the system detects any conflicts with existing events.
 
-Delete Events:
+**Delete Events:**
 Select option 3 and enter the name of the event to remove it from the schedule.
 
-Update Events:
+**Update Events:**
 Select option 4 to update an event. Change its details and verify that the system checks for conflicts before updating.
 
-Exit:
+**Exit:**
 Select option 5 to exit the application.
+
+### **SCREENSHOT**
+
+
 
