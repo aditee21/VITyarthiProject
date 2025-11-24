@@ -41,8 +41,6 @@ command-line Interface (CLI): No framework used, the program runs entirely in th
 **View Events:**
 Select option 1 to view current schedule.
 
-![Screenshot:](<Screenshot 2025-11-23 154213.png>)
-
 **Add Events:**
 Select option 2 to add an event. Enter the event details and observe if the system detects any conflicts with existing events.
 
