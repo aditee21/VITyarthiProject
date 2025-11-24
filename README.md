@@ -1,46 +1,47 @@
 # VITyarthiProject
-## #### EVENT CONFLICT CHECKER ####
-The Event Conflict Checker is a simple Python CRUD (Create, Read, Update, Delete) application designed to help users manage their schedules by adding, updating, and deleting events. The core feature of this tool is its ability to detect scheduling conflicts between events made in advance and present, ensuring that no two events are overlaping in time on the same date. This makes it ideal for students, professionals, or anyone who needs to keep track of their daily activities efficiently.
-<h2>
-**FEATURES**
-</h2>
+## **EVENT CONFLICT CHECKER**
 
-**Add Events**: Users can add new events by specifying the event name, date, start time, and end time.
+The Event Conflict Checker is a straightforward Python CRUD (Create, Read, Update, Delete) application ,ade to help users manage their schedules by adding, updating, and deleting events. The core features of this tool is its ability to detect scheduling conflicts between future and present events, ensuring that no two events overlap at the same time . This makes it ideal for students, professionals, or anyone who needs to keep track of their daily activities efficiently.
 
-**Delete Events**: User can remove existing events from the schedule by name.
+## ** FEATURES**
 
-**Update Events**: Modify the details of an existing event, including its name, date, and time slots.
+Add Events: User can add new events by specifying the event name, date, start time, and end time.
 
-**Conflict Detection**: Automatically checks for overlapping events when adding or updating, and alerts the user if a conflict is detected.
+Delete Events: User can remove existing events from the schedule by name.
 
-**Interactive CLI**: Simple menu-driven interface for easy navigation and management of events.
+Update Events: Modify the details of an existing event, including its name, date, and time slots.
 
-**Console Output**: Displays the current schedule and relevant messages directly in the terminal.
+Conflict Detection: Aoutomatically checks for overlapping events when adding or updating, and alerts the user if a conflict is detected.
 
-## **TOOLS USED**
+Interactive CLI: Simple menu-driven interface for easy navigation and management of events.
 
+Console Output: Displays the current schedule and alerts the user if a conflict occurs.
 
- **Python 3.13**: The entire application is written using only Python including usage of built-in libraries for date and time handling.
+**## TOOLS USED**
 
- **datetime** module:used for comparing time strings
+Python 3.13: The entire application is written using only Python including usage of built-in libraries for date and time handling.
 
- **Command-Line** Interface (CLI): No framework used, the program runs entirely in the terminal.
+datetime module: used for comparing time strings
 
+command-line Interface (CLI): No framework used, the program runs entirely in the terminal.
 
-## **STEPS TO INSTALL & RUN THE PROJECT**
-1. **INSTALL PYTHON**
+**## STEPS TO INSTALL & RUN THE PROJECT**
+1.  **INSTALL PYTHON**
     make sure that you have installed python3.13 in your system.You can download it from python.org .
-2. **PIP INSTALL** 
-    intall datetime module in youre system through terminal using the command pip install datetime 
-3. **CLONE THE REPOSITORY** 
+2. **PIP INSTALL**
+    install datetime module in your system through terminal using the command pip install datetime.
+3. **CLONE THE REPOSITORY**
     clone the project files to your local machine.
 4. **RUN THE PROJECT**
-    open terminal and go in the directory where your project is saved  and execute the command python event_conflict_checker.py
+    open terminal and go in the directory where your project is saved  and execute the command python event_conflict_checker.py .
+
 
 ## **INSTRUCTIONS FOR TESTING **
 
 **View Events:**
 Select option 1 to view current schedule.
+
+![Screenshot:](<Screenshot 2025-11-23 154213.png>)
 
 **Add Events:**
 Select option 2 to add an event. Enter the event details and observe if the system detects any conflicts with existing events.
@@ -53,4 +54,3 @@ Select option 4 to update an event. Change its details and verify that the syste
 
 **Exit:**
 Select option 5 to exit the application.
-
