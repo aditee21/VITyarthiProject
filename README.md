@@ -41,12 +41,10 @@ command-line Interface (CLI): No framework used, the program runs entirely in th
 **View Events:**
 Select option 1 to view current schedule.
 
-<<<<<<< HEAD
-=======
+
 <img width="940" height="538" alt="image" src="https://github.com/user-attachments/assets/0522fab3-ab4b-4176-b643-c293d5d764d9" />
 
 
->>>>>>> f7f63401c4304871b620b0e6866e0f9c4e939853
 **Add Events:**
 Select option 2 to add an event. Enter the event details and observe if the system detects any conflicts with existing events.
 
