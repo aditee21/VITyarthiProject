@@ -41,16 +41,27 @@ command-line Interface (CLI): No framework used, the program runs entirely in th
 **View Events:**
 Select option 1 to view current schedule.
 
-![Screenshot:](<Screenshot 2025-11-23 154213.png>)
+<img width="940" height="538" alt="image" src="https://github.com/user-attachments/assets/0522fab3-ab4b-4176-b643-c293d5d764d9" />
+
 
 **Add Events:**
 Select option 2 to add an event. Enter the event details and observe if the system detects any conflicts with existing events.
 
+<img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/fe787623-9da7-435f-9a71-451ad68eb3c0" />
+
+
 **Delete Events:**
 Select option 3 and enter the name of the event to remove it from the schedule.
+
+<img width="940" height="571" alt="image" src="https://github.com/user-attachments/assets/38159594-a800-4a7f-a03f-3f02de77dfb7" />
 
 **Update Events:**
 Select option 4 to update an event. Change its details and verify that the system checks for conflicts before updating.
 
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/9eacfb1d-7451-46ae-9208-85768c111ce5" />
+
 **Exit:**
 Select option 5 to exit the application.
+
+<img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/b940004b-e466-45c6-bc73-44b20d4b291f" />
+
