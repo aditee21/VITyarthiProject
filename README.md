@@ -1,5 +1,5 @@
-# VITyarthiProject
-## **EVENT CONFLICT CHECKER**
+
+# **EVENT CONFLICT CHECKER**
 
 The Event Conflict Checker is a straightforward Python CRUD (Create, Read, Update, Delete) application ,ade to help users manage their schedules by adding, updating, and deleting events. The core features of this tool is its ability to detect scheduling conflicts between future and present events, ensuring that no two events overlap at the same time . This makes it ideal for students, professionals, or anyone who needs to keep track of their daily activities efficiently.
 
